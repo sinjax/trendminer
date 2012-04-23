@@ -1,0 +1,4 @@
+trendminer
+==========
+
+The trendminer repo
