@@ -1,0 +1,3 @@
+[submodule "trendminer-java"]
+	path = trendminer-java
+	url = git://github.com/sinjax/trendminer-java.git
