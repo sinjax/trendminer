@@ -4,3 +4,6 @@
 [submodule "trendminer-python"]
 	path = trendminer-python
 	url = git://github.com/sinjax/trendminer-python.git
+[submodule "trendminer-matlab"]
+	path = trendminer-matlab
+	url = git://github.com/sinjax/trendminer-matlab.git
